@@ -40,14 +40,6 @@ This repository is condisered asone of the top computer vision projects that can
    ```sh
    python3 main.py
    ```
-   
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
@@ -63,6 +55,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Abdelrhaman Wael Ammar - https://www.linkedin.com/in/abdelrahman-wael-ammar/
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: https://github.com/bodiwael/Face-Emotion-Analysis
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
