@@ -1,6 +1,5 @@
 # Face-Emotional-Analysis
-
-<img src="Basic-structure-of-facial-expression-analysis-systems.png">
+<img src="Herta-bioobserver-facial-analysis (3).jpg">
 This repository contains a Python project that can be used to detect facial emotions. The project uses the MediaPipe face mesh API to detect face landmarks, and a simple multilayer perceptron to recognize facial emotions from the detected landmarks.
 
 <!-- GETTING STARTED -->
@@ -24,6 +23,7 @@ This repository is condisered asone of the top computer vision projects that can
 - matplotlib
 
 ## Installation
+<img src="Basic-structure-of-facial-expression-analysis-systems.png">
 
 1. Clone the repo
    ```sh
